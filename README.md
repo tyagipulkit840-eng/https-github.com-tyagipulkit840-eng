@@ -39,3 +39,12 @@ I bring a QA engineer's mindset to AI engineering — focusing on ground-truth d
 ---
 
 *Building reliable software. Evaluating intelligent systems. Learning in public.*
+## 🚀 Featured Project
+
+### LLM RAG Evaluation Lab
+
+A QA-driven framework for evaluating LLM responses and RAG outputs using automated metrics and testing.
+
+**Tech Stack:** Python, FastAPI, RAGAS, Pytest, Java, Spring Boot, Maven, Docker, GitHub Actions.
+
+🔗 [View Project on GitHub](https://github.com/tyagipulkit840-eng/llm-rag-evaluation-lab)
